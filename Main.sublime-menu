@@ -1,0 +1,13 @@
+[
+    {
+        "id": "edit",
+        "children": [
+            {
+                "id": "html_prettify",
+                "caption": "HtmlPrettify: Prettify HTML",
+                "command": "html_prettify"
+            }
+        ]
+    }
+
+]
