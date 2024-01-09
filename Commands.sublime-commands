@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "HTMLPrettify: Prettify HTML",
+    "command": "html_prettify"
+  },
+]
